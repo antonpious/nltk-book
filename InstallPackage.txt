@@ -1,0 +1,5 @@
+This can be done on any command prompt after install python
+
+We can also install for each virtual environment instead of a global install
+
+pip3 install nltk
